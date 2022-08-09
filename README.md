@@ -11,12 +11,6 @@ Things you may want to cover:
 
 * Configuration
 
-* Firebase (Firestore) database is used in this project
+* run 'rake db:migrate' command to get your local sqlite database ready
 
-* Set Up firestore database in firebase console using gmail account, generate json key file from firebase console to connect with database.
-
-* paste keyfile in 
-
-* Deployment instructions
-
-* ...
+* run 'rails s' to run project.
