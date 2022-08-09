@@ -5,19 +5,17 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version => '3.0.2'
 
-* System dependencies
+* run command 'bundle install' to install all gems added in Gemfile
 
 * Configuration
 
-* Database creation
+* Firebase (Firestore) database is used in this project
 
-* Database initialization
+* Set Up firestore database in firebase console using gmail account, generate json key file from firebase console to connect with database.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+* paste keyfile in 
 
 * Deployment instructions
 
